@@ -1,0 +1,75 @@
+2020-05-21 09:35:53,258   ibmiotf.device.Client      INFO    Connected successfully: d:tm8dr6:command:3
+2020-05-21 09:38:24,373   ibmiotf.device.Client      INFO    Connected successfully: d:tm8dr6:command:3
+2020-05-21 09:41:03,208   ibmiotf.device.Client      INFO    Connected successfully: d:tm8dr6:command:3
+2020-05-21 09:42:56,462   ibmiotf.device.Client      INFO    Connected successfully: d:tm8dr6:command:3
+2020-05-21 09:44:23,369   ibmiotf.device.Client      INFO    Connected successfully: d:tm8dr6:command:3
+2020-05-21 09:52:11,862   ibmiotf.device.Client      INFO    Connected successfully: d:tm8dr6:command:3
+2020-05-21 10:00:02,265   ibmiotf.device.Client      INFO    Connected successfully: d:tm8dr6:command:3
+2020-05-21 10:01:54,259   ibmiotf.device.Client      INFO    Connected successfully: d:tm8dr6:command:3
+2020-05-21 10:02:39,333   ibmiotf.device.Client      INFO    Connected successfully: d:tm8dr6:command:3
+2020-05-21 10:03:27,839   ibmiotf.device.Client      INFO    Connected successfully: d:tm8dr6:command:3
+2020-05-21 10:04:08,553   ibmiotf.device.Client      INFO    Connected successfully: d:tm8dr6:command:3
+2020-05-21 10:08:28,429   ibmiotf.device.Client      INFO    Connected successfully: d:tm8dr6:command:3
+2020-05-21 10:12:56,950   ibmiotf.device.Client      INFO    Connected successfully: d:tm8dr6:command:3
+2020-05-21 10:14:08,621   ibmiotf.device.Client      INFO    Connected successfully: d:tm8dr6:command:3
+2020-05-21 10:14:34,534   ibmiotf.device.Client      INFO    Connected successfully: d:tm8dr6:command:3
+2020-05-21 10:16:51,506   ibmiotf.device.Client      INFO    Connected successfully: d:tm8dr6:command:3
+2020-05-21 10:19:05,744   ibmiotf.device.Client      INFO    Connected successfully: d:tm8dr6:command:3
+2020-05-21 10:22:03,130   ibmiotf.device.Client      INFO    Connected successfully: d:tm8dr6:command:3
+2020-05-21 10:22:52,890   ibmiotf.device.Client      INFO    Connected successfully: d:tm8dr6:command:3
+2020-05-21 10:28:11,228   ibmiotf.device.Client      INFO    Connected successfully: d:tm8dr6:command:3
+2020-05-21 10:31:19,554   ibmiotf.device.Client      INFO    Connected successfully: d:tm8dr6:command:3
+2020-05-21 10:34:01,975   ibmiotf.device.Client      INFO    Connected successfully: d:tm8dr6:command:3
+2020-05-21 10:35:36,546   ibmiotf.device.Client      INFO    Connected successfully: d:tm8dr6:command:3
+2020-05-21 10:56:51,108   ibmiotf.device.Client      INFO    Connected successfully: d:tm8dr6:command:3
+2020-05-21 11:02:04,790   ibmiotf.device.Client      INFO    Connected successfully: d:tm8dr6:command:3
+2020-05-21 11:08:01,216   ibmiotf.device.Client      INFO    Connected successfully: d:tm8dr6:command:3
+2020-05-21 11:09:00,030   ibmiotf.device.Client      INFO    Connected successfully: d:tm8dr6:command:3
+2020-05-21 11:09:40,124   ibmiotf.device.Client      INFO    Connected successfully: d:tm8dr6:command:3
+2020-05-21 13:52:30,122   ibmiotf.device.Client      INFO    Connected successfully: d:tm8dr6:command:3
+2020-05-21 13:56:03,742   ibmiotf.device.Client      INFO    Connected successfully: d:tm8dr6:command:3
+2020-05-21 13:59:15,460   ibmiotf.device.Client      INFO    Connected successfully: d:tm8dr6:command:3
+2020-05-21 14:00:43,659   ibmiotf.device.Client      INFO    Connected successfully: d:tm8dr6:command:3
+2020-05-21 14:01:57,922   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-21 14:01:59,713   ibmiotf.device.Client      INFO    Connected successfully: d:tm8dr6:command:3
+2020-05-21 14:02:03,446   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-21 14:02:05,246   ibmiotf.device.Client      INFO    Connected successfully: d:tm8dr6:command:3
+2020-05-21 14:02:08,939   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-21 14:02:10,717   ibmiotf.device.Client      INFO    Connected successfully: d:tm8dr6:command:3
+2020-05-21 14:02:14,472   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-21 14:02:16,300   ibmiotf.device.Client      INFO    Connected successfully: d:tm8dr6:command:3
+2020-05-21 14:02:20,049   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-21 14:02:21,860   ibmiotf.device.Client      INFO    Connected successfully: d:tm8dr6:command:3
+2020-05-21 14:02:25,654   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-21 14:02:27,804   ibmiotf.device.Client      INFO    Connected successfully: d:tm8dr6:command:3
+2020-05-21 14:02:31,660   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-21 14:02:33,534   ibmiotf.device.Client      INFO    Connected successfully: d:tm8dr6:command:3
+2020-05-21 14:02:37,229   ibmiotf.device.Client      ERROR   Unexpected disconnect from the IBM Watson IoT Platform: 1
+2020-05-21 14:02:39,124   ibmiotf.device.Client      INFO    Connected successfully: d:tm8dr6:command:3
+2020-05-21 14:04:43,111   ibmiotf.device.Client      INFO    Connected successfully: d:tm8dr6:command:3
+2020-05-21 15:00:11,084   ibmiotf.device.Client      INFO    Connected successfully: d:tm8dr6:command:3
+2020-05-21 15:03:54,925   ibmiotf.device.Client      INFO    Connected successfully: d:tm8dr6:command:3
+2020-05-21 15:08:29,412   ibmiotf.device.Client      INFO    Connected successfully: d:tm8dr6:command:3
+2020-05-21 15:10:11,630   ibmiotf.device.Client      INFO    Connected successfully: d:tm8dr6:command:3
+2020-05-21 15:15:18,002   ibmiotf.device.Client      INFO    Connected successfully: d:tm8dr6:command:3
+2020-05-21 15:18:04,270   ibmiotf.device.Client      INFO    Connected successfully: d:tm8dr6:command:3
+2020-05-21 15:19:29,856   ibmiotf.device.Client      INFO    Connected successfully: d:tm8dr6:command:3
+2020-05-21 15:21:13,101   ibmiotf.device.Client      INFO    Connected successfully: d:tm8dr6:command:3
+2020-05-21 15:23:08,757   ibmiotf.device.Client      INFO    Connected successfully: d:tm8dr6:command:3
+2020-05-21 15:26:17,047   ibmiotf.device.Client      INFO    Connected successfully: d:tm8dr6:command:3
+2020-05-21 15:27:12,239   ibmiotf.device.Client      INFO    Connected successfully: d:tm8dr6:command:3
+2020-05-21 15:28:28,230   ibmiotf.device.Client      INFO    Connected successfully: d:tm8dr6:command:3
+2020-05-21 15:29:54,189   ibmiotf.device.Client      INFO    Connected successfully: d:tm8dr6:command:3
+2020-05-21 15:30:58,959   ibmiotf.device.Client      INFO    Connected successfully: d:tm8dr6:command:3
+2020-05-21 15:32:54,318   ibmiotf.device.Client      INFO    Connected successfully: d:tm8dr6:command:3
+2020-05-21 15:34:38,737   ibmiotf.device.Client      INFO    Connected successfully: d:tm8dr6:command:3
+2020-05-21 15:38:24,342   ibmiotf.device.Client      INFO    Connected successfully: d:tm8dr6:command:3
+2020-05-21 15:41:49,729   ibmiotf.device.Client      INFO    Connected successfully: d:tm8dr6:command:3
+2020-05-21 15:46:22,575   ibmiotf.device.Client      INFO    Connected successfully: d:tm8dr6:command:3
+2020-05-21 15:58:10,419   ibmiotf.device.Client      INFO    Connected successfully: d:tm8dr6:command:3
+2020-05-21 15:59:37,052   ibmiotf.device.Client      INFO    Connected successfully: d:tm8dr6:command:3
+2020-05-21 16:10:20,488   ibmiotf.device.Client      INFO    Connected successfully: d:tm8dr6:command:3
+2020-05-21 16:15:26,050   ibmiotf.device.Client      INFO    Connected successfully: d:tm8dr6:command:3
+2020-05-24 13:55:43,144   ibmiotf.device.Client      INFO    Connected successfully: d:tm8dr6:command:3
+2020-05-25 14:56:53,774   ibmiotf.device.Client      INFO    Connected successfully: d:tm8dr6:command:3
+2020-05-25 21:32:36,008   ibmiotf.device.Client      INFO    Connected successfully: d:tm8dr6:command:3
